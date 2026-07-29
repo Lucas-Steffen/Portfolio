@@ -131,6 +131,7 @@ const SKILLS = {
         { name: 'Grafana', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg', level: 3 },
         { name: 'Jest', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg', level: 4 },
         { name: 'Agile/Kanban', icon: null, level: 5 },
+        { name: 'AWS', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg', level: 4 }
     ],
 }
 
@@ -157,7 +158,7 @@ const T = {
         promptPrefix: '~/portfolio',
         experience_items: [
             {
-                role: 'Desenvolvedor Full-Stack Jr',
+                role: 'Desenvolvedor Back-end Jr',
                 company: 'VF PAR',
                 location: 'Brasília, DF – Brasil',
                 description: 'Desenvolvimento e manutenção dos sistemas internos com NestJS, TypeORM e PostgreSQL no back-end, e React no front-end. Implementação de APIs REST, automações com n8n, integrações via Evolution API e Chatwoot para atendimento via WhatsApp. Deploy via Easypanel, monitoramento com Grafana e fluxo de trabalho orientado a Kanban.',
@@ -256,7 +257,7 @@ const T = {
         promptPrefix: '~/portfolio',
         experience_items: [
             {
-                role: 'Junior Full-Stack Developer',
+                role: 'Junior Back-end Developer',
                 company: 'VF PAR',
                 location: 'Brasília, DF – Brazil',
                 description: 'Development and maintenance of internal systems using NestJS, TypeORM and PostgreSQL on the back-end, and React on the front-end. REST API implementation, automations with n8n, integrations via Evolution API and Chatwoot for WhatsApp support. Deploy via Easypanel, monitoring with Grafana and Kanban-driven workflow.',
